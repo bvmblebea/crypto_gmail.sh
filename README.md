@@ -3,6 +3,6 @@ Web-API for [cryptogmail.com](https://cryptogmail.com) a must-have service that 
 
 ## Example
 ```bash
-source crypto_gmail.sh
+source ./crypto_gmail.sh
 get_domains
 ```
